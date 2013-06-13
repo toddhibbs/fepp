@@ -23,12 +23,11 @@ exports.config =
     javascriptDir: 'App'
 
   server:
-    port: 3000
-    useDefaultServer: true
+    port: 3003
+    defaultServer:
+      enabled: true
+      onePager: true
 
-    views:
-      compileWith: 'html'
-      extension: 'html'
 
   requireBuildTextPluginInclude:
     pluginPath: 'text'

@@ -7,9 +7,9 @@ fepp is a web application to help field service groups do disater preparation pl
 
 ## System Requirements
 
--- Node.js
--- Durandal.js
--- Mongodb
+- Node.js
+- Durandal.js
+- Mongodb
 
 ## Installation
 
