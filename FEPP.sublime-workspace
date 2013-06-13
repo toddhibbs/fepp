@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getMeasuresUrl"
+			],
+			[
+				"g",
+				"generate"
+			],
+			[
+				"Package",
+				"Package_Name"
+			],
+			[
+				"cre",
+				"createReadStream"
+			],
+			[
+				"ar",
+				"archiver"
+			],
+			[
+				"sele",
+				"selectedMeasuresList"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"sel",
+				"selectedMeasuresList"
+			],
+			[
+				"filter",
+				"filterMeasuresEnabled"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"isPage",
+				"isPageActive_ValuesetDetail"
+			],
+			[
+				"isp",
+				"isPageActive_MeasureDetail"
+			],
+			[
+				"IsPage",
+				"isPageActive_MeasureList"
+			],
+			[
+				"filterM",
+				"filterMeasureList"
+			],
+			[
+				"meas",
+				"measureTypeFilters"
+			],
+			[
+				"me",
+				"measureTypeFilters"
+			],
+			[
+				"o",
+				"observableArray"
+			],
+			[
+				"s",
+				"stewardfound"
+			],
+			[
+				"mea",
+				"measureList"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"m",
+				"measureNeutralId"
+			],
+			[
+				"f",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"p",
+				"parameter"
+			],
+			[
+				"ty",
+				"typefilter"
+			],
+			[
+				"is",
+				"isUndefined"
+			],
+			[
+				"ob",
+				"observableArray"
+			],
+			[
+				"isP",
+				"isPageActive_MeasureList"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"v",
+				"valueset"
+			],
+			[
+				"got",
+				"goToValueset"
+			],
+			[
+				"disp",
+				"displayMessageType"
+			],
+			[
+				"chosen",
+				"chosenDataElements"
+			],
+			[
+				"ri",
+				"isRightNumeric"
+			],
+			[
+				"D",
+				"DataElements"
+			],
+			[
+				"codesys",
+				"CodeSystemName"
+			],
+			[
+				"codesy",
+				"CodeSystemVersion"
+			],
+			[
+				"xml",
+				"xml2js"
+			],
+			[
+				"valu",
+				"valuesetJson"
+			],
+			[
+				"ti",
+				"Timestamp"
+			],
+			[
+				"Ticket",
+				"TicketGrantingTicket"
+			],
+			[
+				"Tick",
+				"TicketGrantingTicket"
+			],
+			[
+				"user",
+				"userLoggedIn"
+			],
+			[
+				"new",
+				"newHash"
+			],
+			[
+				"hash",
+				"hashChangeEventListener"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/tencentsolutions/FEPP/views/index.html",
+		"/C/dev/tencentsolutions/fepp/README.md",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/load-measure-data.js",
+		"/C/Users/Todd/Downloads/measures.json",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/routes/index.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/package.json",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/routes/measure.js",
+		"/C/Users/Todd/Downloads/measures (1).json",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/node-server.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/measurelistmodel.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/sidebar-filters.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/measure-list.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/service.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/css/styles.css",
+		"/C/Users/Todd/Desktop/ko-debug.txt",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/home-content.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/version.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/test/measure-test.js",
+		"/C/dev/active8/pwd.txt",
+		"/C/Users/Todd/AppData/Local/Temp/fz3temp-1/init.php",
+		"/C/dev/active8/includes/display/CartContent.php",
+		"/C/dev/active8/includes/display/CartHeader.php",
+		"/C/Users/Todd/AppData/Local/Temp/fz3temp-1/SwagHeader.php",
+		"/C/dev/active8/includes/display/SwagHeader.php",
+		"/C/dev/active8/init.php",
+		"/C/Users/Todd/Downloads/FirePHPLibrary-FirePHPCore-0.3.2/FirePHPCore-0.3.2/README",
+		"/C/Users/Todd/Downloads/proxy_access_log",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/models/measure.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/models/valueset.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/routes/api.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/routes/vsac.js",
+		"/C/dev/tencentsolutions/FEPP/assets/App/views/shell.html",
+		"/C/dev/tencentsolutions/jw-disasterprep/models/modelprovider.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/views/default3.ejs",
+		"/C/Users/Todd/Desktop/todd-test.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/routes.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator-2013/public/js/measureindexviewmodel.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/mainvm.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/help-content.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/measuredetail.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/valueset.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/login.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator-2013/views/default.ejs",
+		"/C/Users/Todd/Desktop/jquery-on-event-handling.txt",
+		"/C/Users/Todd/Desktop/for-loop.txt",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/20130531.js",
+		"/C/dev/lantana/eSpecNavigator/PackagingTools/bin/packages/index-all.bat",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/measureindexviewmodel.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/measureindex.js",
+		"/C/Users/Todd/AppData/Local/Google/Chrome/User Data/Default/Cache/f_027361",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/utility.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/ecqm-content.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/20121221.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/20121221.xml",
+		"/C/dev/lantana/eSpecNavigator/PackagingTools/bin/packages/20121221.xml",
+		"/C/dev/lantana/eSpecNavigator/PackagingTools/bin/packages/20121221-pre.xml",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/load-valueset-data.js",
+		"/C/dev/lantana/eSpecNavigator/PackagingTools/bin/Debug/measures.xml",
+		"/C/dev/lantana/eSpecNavigator/PackagingTools/bin/Debug/measureindex.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/templates/sidebar-basic.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/views/backup.ejs",
+		"/C/dev/lantana/eSpecNavigator/PackagingTools/bin/Debug/Indexer.exe.config",
+		"/C/dev/lantana/eSpecNavigator/PackagingTools/bin/Debug/eCQMInfo.exe.config",
+		"/C/Users/Todd/Desktop/Someone That I Used to Know - Gotya.txt",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/views/default.ejs",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/measures/EH_CMS60v1_NQF0164_AMI7a_FibrinolyticTher/CMS60v1.xml",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/views/sidebar-basic.html",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/bootstrap.js",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/js/underscore-min.js",
+		"/C/dev/lantana/codesystem-mapping-issues.txt",
+		"/C/dev/lantana/tdb-test/casper/home.js",
+		"/C/dev/lantana/tdb-test/casper/sequence/test1.js",
+		"/C/dev/lantana/tdb-test/casper/sequence/inc.js",
+		"/C/Users/Todd/mercurial.ini",
+		"/G/BA/.hg/requires",
+		"/G/BA/Design/.hg/cache/branchheads",
+		"/G/BA/Design/.hg/cache/.branchheads-kvtj0q",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/measures/EP_CMS22v1_NQFXXXX_BP_Screening_and_Follow_Up/CMS22v1.xml",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/especnavigator.sublime-workspace",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/measures/EH_CMS100v1_NQF0142_AMI2_AspirinAtDisch/CMS100v1.xml",
+		"/C/dev/scratch/buildVsacCode/xml/69.xml",
+		"/C/dev/lantana/eSpecNavigator/SpecificationsDatabase/default.html",
+		"/C/dev/scratch/buildVsacCode/xml/9.xml",
+		"/C/dev/lantana/eSpecNavigator/Deploy/assets/js/measureindex.js",
+		"/C/dev/lantana/eSpecNavigator/Indexer/Indexer/bin/Debug/measureindex.js",
+		"/C/temp/eSpecNavigator/EH_CMS31v1_NQF1354_EHDI_1a_HearScreen/CMS31v1.xml",
+		"/C/tools/measures/measures.xml",
+		"/C/dev/scratch/buildVsacCode/xml/52.xml",
+		"/C/temp/eSpecNavigator/EH_CMS9v1_NQF0480_BF_ExclusiveBreastFeed/CMS9v1_CatI_QrdaSample.xml",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/app.js",
+		"/C/Users/Todd/Desktop/I will wait - Mumford and Sons.txt",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/measures/EH_CMS190v1_NQF0372_VTE2/0372_Intensive Care Unit Venous Thromboembolism Prophylaxis_QRDA_Sample.xml",
+		"/C/dev/lantana/eSpecNavigator/especnavigator/public/measures/EH_CMS190v1_NQF0372_VTE2/CMS190v1.xml",
+		"/C/Users/Todd/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Todd/Downloads/CSJMR12.06",
+		"/G/Lantana/svn/ClientProjects/HQMF_ProcessEngine/xml/QRDA/XPATH/XMLValueSets/CodeSystems.xml",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/dev/scratch/geturl/app3.js",
+		"/C/dev.cmd",
+		"/C/Users/Todd/AppData/Roaming/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/Todd/AppData/Roaming/Sublime Text 2/Packages/User/Pretty JSON.sublime-settings",
+		"/C/Users/Todd/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GetAvailableModules",
+			"items",
+			"resetfilters",
+			"resetfi",
+			"resetres",
+			"chosen",
+			"raw",
+			"foreach",
+			"set",
+			"selectedM",
+			"json",
+			"Oid",
+			"Id",
+			"chosenValueSet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
